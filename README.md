@@ -29,8 +29,3 @@ The model used for predicting the survival of passengers is outlined in `model.i
 
 ## Evaluation
 The model's performance is evaluated based on the accuracy of the predictions it makes on the test data. Accuracy is defined as the percentage of passengers correctly predicted.
-
-## Submission Format
-Predictions should be submitted in a CSV file with exactly 418 entries plus a header row. The file should contain exactly two columns:
-- `PassengerId`: ID of the passenger.
-- `Survived`: Predicted survival (1) or deceased (0) status.
